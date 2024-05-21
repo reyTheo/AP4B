@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<carte ville="belfort centre" src="../data/belfort_centre_1708_1572.bmp">
+<carte ville="belfort centre" src="../data/belfort_centre_1708_1572.gif">
 	<ville nom="belfort centre">
 		<points>
 			<point num="2426" x="375.0" y="1052.0"></point>

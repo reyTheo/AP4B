@@ -48,7 +48,7 @@ public class MenuController implements ActionListener {
 		}
 		if(itemName.equals("Change Map")){
 			app.close();
-			new Application("data/region_belfort_streets.xml");
+			new Application("data/belfort_centre_1708_1572_SetOfStreets_version_GIS.xml");
 		}
 	}
 }
