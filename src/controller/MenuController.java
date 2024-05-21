@@ -46,5 +46,9 @@ public class MenuController implements ActionListener {
 		if(itemName.equals("AntiAliasing")){
 			app.changeAntiAliasing();
 		}
+		if(itemName.equals("Change Map")){
+			app.close();
+			new Application("data/region_belfort_streets.xml");
+		}
 	}
 }
